@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=Jimmy5467&style=flat-square)
+
 <!--
 **Jimmy5467/Jimmy5467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +13,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+- -->
+- 📫 How to reach me: jimmyaghera123@gmail.com
+
+
