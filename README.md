@@ -1,5 +1,5 @@
 
-# [Jimmy Aghera!](https://github.com/Jimmy5467) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [Jimmy Aghera!](https://github.com/Jimmy5467)
 
 
 ![](https://komarev.com/ghpvc/?username=Jimmy5467&style=flat-square)
